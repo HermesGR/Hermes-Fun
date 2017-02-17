@@ -133,3 +133,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=B3_qCGn-Crk
 
 #EXTINF:1,Μητσικώστας - Ο Νότης Σφακιανάκης στον Μπογδάνο
 plugin://plugin.video.youtube/?action=play_video&videoid=ZOZEoGeqJsY
+
+#EXTINF:1,ΜΗΤΣΙΚΩΣΤΑΣ - ΤΑΚΗΣ ΤΣΟΥΚΑΛΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=bVqNlEkpoN4
+
+#EXTINF:1,ΜΗΤΣΙΚΩΣΤΑΣ - Ο αλεφαντος αναλύει την εθνικη
+plugin://plugin.video.youtube/?action=play_video&videoid=LbUDjQg9_Cs
