@@ -2,6 +2,21 @@
 
 #EXTM3U
 
+#EXTINF:1,Ο Γιώργος Μητσικώστας κάνει τον Μένιο Φουρθιώτη στα Αποκαλυπτικά!
+plugin://plugin.video.youtube/?action=play_video&videoid=AGvc9Tv6W7E
+
+#EXTINF:1,Ο Γιώργος Μητσικώστας κάνει Σπαλιάρα στο Survivor!
+plugin://plugin.video.youtube/?action=play_video&videoid=TF3WazhFT0Y
+
+#EXTINF:1,Μητσικώστας - Στέφανος Χίος
+plugin://plugin.video.youtube/?action=play_video&videoid=Yh__1ko7nsk
+
+#EXTINF:1,Μητσικώστας - Ο Χίος τα χώνει σε Σημίτη και Αλέφαντο!!
+plugin://plugin.video.youtube/?action=play_video&videoid=GD2NyPkK1Ps
+
+#EXTINF:1,Ο Γιώργος Μητσικώστας κάνει Τάκη Τσουκαλά και Αρτέμη Σώρρα!
+plugin://plugin.video.youtube/?action=play_video&videoid=Pg5bwSc2vI
+
 #EXTINF:1,ΔΗΛΩΣΕΙΣ ΘΩΜΑΣ ΜΑΤΣΙΟΣ - ΠΡΟΕΔΡΟΣ ΠΑΕ ΕΔΕΣΣΑΙΚΟΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=Vm2oyynssEQ
 
@@ -88,3 +103,33 @@ plugin://plugin.video.youtube/?action=play_video&videoid=KooY9x46lF0
 
 #EXTINF:1,ΓΕΩΡΓΙΟΥ - BEST OF
 plugin://plugin.video.youtube/?action=play_video&videoid=LdjRudHJA6g
+
+#EXTINF:1,Ευτυχισμενοι Μαζι-Best of Μακης Κοτσαμπασης
+plugin://plugin.video.youtube/?action=play_video&videoid=cIUuMXg_6HM
+
+#EXTINF:1,Δόγκανος - Best of
+plugin://plugin.video.youtube/?action=play_video&videoid=6GJSg_iKPJQ
+
+#EXTINF:1,Mitsi Show - ΜΑΚΗΣ ΨΩΜΙΑΔΗΣ Η...ΜΑΚΑΡΟΣ στο ταξί!
+plugin://plugin.video.youtube/?action=play_video&videoid=iEi-9qJ8XwQ
+
+#EXTINF:1,Ο Μάκης Ψωμιάδης στο δικαστήριο!
+plugin://plugin.video.youtube/?action=play_video&videoid=qnDyRWUlJVU
+
+#EXTINF:1,Μάκης - Ντέμης (Μητσικώστας)
+plugin://plugin.video.youtube/?action=play_video&videoid=FguRBOMEpS8
+
+#EXTINF:1,Μητσιχώστα - Εισβολή Κούγια στο 'Αλτερ
+plugin://plugin.video.youtube/?action=play_video&videoid=beAixAgr-_8
+
+#EXTINF:1,Μητσικώστας - Καυγάς Άδωνι Χατζηνικολάου για τα φάρμακα!
+plugin://plugin.video.youtube/?action=play_video&videoid=EE4aebOGtuk
+
+#EXTINF:1,Μητσικώστας - Ο δήμαρχος Ψινάκης στον Άκη Παυλόπουλο!
+plugin://plugin.video.youtube/?action=play_video&videoid=nT4izizjcVs
+
+#EXTINF:1,Ο Μητσικώστας συναντά τον Σταύρο Θεοδωράκη!
+plugin://plugin.video.youtube/?action=play_video&videoid=B3_qCGn-Crk
+
+#EXTINF:1,Μητσικώστας - Ο Νότης Σφακιανάκης στον Μπογδάνο
+plugin://plugin.video.youtube/?action=play_video&videoid=ZOZEoGeqJsY
