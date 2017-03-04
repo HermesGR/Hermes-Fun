@@ -80,8 +80,11 @@ plugin://plugin.video.youtube/?action=play_video&videoid=MtATvgvy6SI
 #EXTINF:1,ΜΠΑΜ - ΦΕΡΕΝΤΙΝΟΣ ΦΑΡΣΑ ΣΤΟΝ ΠΑΙΤΕΡΗ!!!
 plugin://plugin.video.youtube/?action=play_video&videoid=a3PTU5zkvdw
 
-#EXTINF:1,ΜΠΑΜ - ΦΑΡΣΑ ΣΤΟΝ ΚΟΚΛΑ
-plugin://plugin.video.youtube/?action=play_video&videoid=5PgfEpkPSwY
+#EXTINF:1,ΜΠΑΜ - ΦΕΡΕΝΤΙΝΟΣ ΦΑΡΣΑ ΣΤΟΝ ΘΩΜΑΙΔΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=y1VuXfFnpJM
+
+#EXTINF:1,ΜΠΑΜ - ΦΑΡΣΑ ΣΤΙΣ ΑΔΕΡΦΕΣ ΛΥΚΟΥΔΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=OCWcBkFYOAA
 
 #EXTINF:1,Ο ΣΦΑΚΙΑΝΑΚΗΣ ΣΤΟ ΤΑΞΙ ΤΟΥ ΣΕΦΕΡΛΗ
 plugin://plugin.video.youtube/?action=play_video&videoid=0_2KI5Qksbw
