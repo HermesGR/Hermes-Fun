@@ -59,6 +59,21 @@ plugin://plugin.video.youtube/?action=play_video&videoid=rrqqgryg4BQ
 #EXTINF:1,ΡΑΠΤΟΠΟΥΛΟΣ - BEST OF
 plugin://plugin.video.youtube/?action=play_video&videoid=p4TRssm5Wzw
 
+#EXTINF:1,ΜΠΑΜ - ΦΑΡΣΑ ΣΤΟΝ ΓΙΑΝΝΗ ΚΑΠΕΤΑΝΙΟ
+plugin://plugin.video.youtube/?action=play_video&videoid=3G12BYAlVlM
+
+#EXTINF:1,ΜΠΑΜ - ΦΑΡΣΑ ΣΤΟΝ ΧΑΡΗ ΡΟΜΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=jJQSaYfD17E
+
+#EXTINF:1,ΜΠΑΜ - ΦΑΡΣΑ ΣΤΗΝ ΕΦΗ ΣΑΡΡΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=fWXLZfbiA2g
+
+#EXTINF:1,ΜΠΑΜ - ΦΑΡΣΑ ΣΤΟΝ ΧΡΗΣΤΟ ΑΝΤΩΝΙΑΔΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=ICs6LJZB01U
+
+#EXTINF:1,ΜΠΑΜ - ΦΑΡΣΑ ΣΤΟΝ ΝΙΚΟ ΚΟΥΡΚΟΥΛΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=tsXJ1BPTVlw
+
 #EXTINF:1,ΜΠΑΜ - ΦΑΡΣΑ ΣΤΟΝ ΤΑΚΗ ΤΣΟΥΚΑΛΑ
 plugin://plugin.video.youtube/?action=play_video&videoid=MtATvgvy6SI
 
