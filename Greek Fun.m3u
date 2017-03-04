@@ -2,6 +2,12 @@
 
 #EXTM3U
 
+#EXTINF:1,Ο Γιώργος Μητσικώστας θα 'χει φορτώματα με τον Αρτέμη Σώρρα...
+plugin://plugin.video.youtube/?action=play_video&videoid=BDREKLqXfvg
+
+#EXTINF:1,Μητσικώστας - Ο Νίκος Αλέφαντος για το ΑΕΚ-Ολυμπιακός
+plugin://plugin.video.youtube/?action=play_video&videoid=nnrOw6kgz1w
+
 #EXTINF:1,Ο Γιώργος Μητσικώστας κάνει τον Μένιο Φουρθιώτη στα Αποκαλυπτικά!
 plugin://plugin.video.youtube/?action=play_video&videoid=AGvc9Tv6W7E
 
@@ -19,6 +25,36 @@ plugin://plugin.video.youtube/?action=play_video&videoid=Pg5bwSc2vI
 
 #EXTINF:1,Δηλώσεις Θωμάς Μάτσιος - Πρόεδρος ΠΑΕ Εδεσσαικός
 plugin://plugin.video.youtube/?action=play_video&videoid=Vm2oyynssEQ
+
+#EXTINF:1,ΤΑ ΠΙΟ ΑΣΤΕΙΑ ΒΙΝΤΕΟ ΜΕ ΑΘΛΗΜΑΤΑ !!! ΑΘΛΗΤΕΣ ΣΕ ΑΠΟΓΝΩΣΗ !!!
+plugin://plugin.video.youtube/?action=play_video&videoid=rOFvPrYH2PA
+
+#EXTINF:1,Τα 20 πιο Αστεία Βίντεο στο Ποδόσφαιρο !!! ΠΟΛΥ ΓΕΛΙΟ !!!
+plugin://plugin.video.youtube/?action=play_video&videoid=zq9QBWBqcvg
+
+#EXTINF:1,Φάρσα με φέρετρο στο ασανσέρ...
+plugin://plugin.video.youtube/?action=play_video&videoid=FGg6zgbxu6A
+
+#EXTINF:1,Φάρσα με ''φάντασμα'' στο ασανσέρ..
+plugin://plugin.video.youtube/?action=play_video&videoid=uvhnf7Ncvbw
+
+#EXTINF:1,Απίστευτη φάρσα σε ανυποψίαστους πελάτες σε δοκιμαστήρια!
+plugin://plugin.video.youtube/?action=play_video&videoid=ukNVasjKuNs
+
+#EXTINF:1,Top 5 Just For Laughs Gags
+plugin://plugin.video.youtube/?action=play_video&videoid=10kZBrqfo1w
+
+#EXTINF:1,World's Worst Husbands - Best of Just For Laughs Gags
+plugin://plugin.video.youtube/?action=play_video&videoid=Md9vri3FV3c
+
+#EXTINF:1,Naughty Adults - Best of Just For Laughs Gags
+plugin://plugin.video.youtube/?action=play_video&videoid=IkxbFuqOo7E
+
+#EXTINF:1,Couple Caught in Bed & ATM Shreds Dollar Bills - Throwback Thursday
+plugin://plugin.video.youtube/?action=play_video&videoid=VRgZH3MvcyU
+
+#EXTINF:1,Just For Laughs Gags Best Of 2016
+plugin://plugin.video.youtube/?action=play_video&videoid=IxhVYz71y6w
 
 #EXTINF:1,PATRICK OGUNSOTO - BEST OF 
 plugin://plugin.video.youtube/?action=play_video&videoid=s5KHyPP9gHg
