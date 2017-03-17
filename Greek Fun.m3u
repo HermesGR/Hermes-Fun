@@ -2,6 +2,36 @@
 
 #EXTM3U
 
+#EXTM3U
+#EXTINF:-1,ote sport1
+http://38.122.233.10:1935/gr-live/otesport1.sdp/playlist.m3u8
+#EXTINF:-1,ote sport2
+http://38.122.233.10:1935/gr-live/otesport2.sdp/playlist.m3u8
+#EXTINF:-1,ote sport3
+http://38.122.233.10:1935/gr-live/otesport3.sdp/playlist.m3u8
+#EXTINF:-1,ote sport 4
+http://38.122.233.10:1935/gr-live/otesport4.sdp/playlist.m3u8
+#EXTINF:-1,ote sport 5
+http://38.122.233.10:1935/gr-live/otesport5.sdp/playlist.m3u8
+#EXTINF:0, Sport 1 Ukraine
+http://91.244.24.86:9999/udp/239.255.250.38:1234
+#EXTINF:0, Sport 2 Ukraine
+http://91.244.24.86:9999/udp/239.255.250.39:1234
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:1,Father Leaves Park With WRONG Daughter - Just For Laughs Gags
 plugin://plugin.video.youtube/?action=play_video&videoid=pzb1vdT8JWM
 
