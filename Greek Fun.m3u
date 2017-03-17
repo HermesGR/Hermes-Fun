@@ -2,96 +2,20 @@
 
 #EXTM3U
 
-#EXTINF:-1,GR: ERT 1 HD
-http://pro-iptv.ddns.net:8080/live/13080/13080/593.ts
-#EXTINF:-1,GR: ERT 2
-http://pro-iptv.ddns.net:8080/live/13080/13080/592.ts
-#EXTINF:-1,GR: ERT 3
-http://pro-iptv.ddns.net:8080/live/13080/13080/591.ts
-#EXTINF:-1,GR: ANT1
-http://pro-iptv.ddns.net:8080/live/13080/13080/594.ts
-#EXTINF:-1,GR: Alpha
-http://pro-iptv.ddns.net:8080/live/13080/13080/595.ts
-#EXTINF:-1,GR: Mega
-http://pro-iptv.ddns.net:8080/live/13080/13080/1443.ts
-#EXTINF:-1,GR: Star
-http://pro-iptv.ddns.net:8080/live/13080/13080/1455.ts
-#EXTINF:-1,GR: Nea TV
-http://pro-iptv.ddns.net:8080/live/13080/13080/1445.ts
-#EXTINF:-1,GR: KRHTH TV
-http://pro-iptv.ddns.net:8080/live/13080/13080/1447.ts
-#EXTINF:-1,GR: Creta
-http://pro-iptv.ddns.net:8080/live/13080/13080/1449.ts
-#EXTINF:-1,GR: Action24
-http://pro-iptv.ddns.net:8080/live/13080/13080/1451.ts
-#EXTINF:-1,GR: ZOUGL@
-http://pro-iptv.ddns.net:8080/live/13080/13080/3076.ts
-#EXTINF:-1,GR: E
-http://pro-iptv.ddns.net:8080/live/13080/13080/3077.ts
-#EXTINF:-1,GR: TILESPORT
-http://pro-iptv.ddns.net:8080/live/13080/13080/3078.ts
-#EXTINF:-1,GR: Thraki TV
-http://pro-iptv.ddns.net:8080/live/13080/13080/3079.ts
-#EXTINF:-1,GR: Thema TV
-http://pro-iptv.ddns.net:8080/live/13080/13080/3080.ts
-#EXTINF:-1,GR: Start TV
-http://pro-iptv.ddns.net:8080/live/13080/13080/3081.ts
-#EXTINF:-1,GR: SBC
-http://pro-iptv.ddns.net:8080/live/13080/13080/3082.ts
-#EXTINF:-1,GR: Tele Sport
-http://pro-iptv.ddns.net:8080/live/13080/13080/3083.ts
-#EXTINF:-1,GR: High Tv
-http://pro-iptv.ddns.net:8080/live/13080/13080/3084.ts
-#EXTINF:-1,GR: Makedonia
-http://pro-iptv.ddns.net:8080/live/13080/13080/3085.ts
-#EXTINF:-1,GR: MAD
-http://pro-iptv.ddns.net:8080/live/13080/13080/3086.ts
-#EXTINF:-1,GR: Eurosport 2
-http://pro-iptv.ddns.net:8080/live/13080/13080/3087.ts
-#EXTINF:-1,GR: KRITI TV
-http://pro-iptv.ddns.net:8080/live/13080/13080/3088.ts
-#EXTINF:-1,GR: Hpeiros TV1
-http://pro-iptv.ddns.net:8080/live/13080/13080/3089.ts
-#EXTINF:-1,GR: EPIRUS TV1
-http://pro-iptv.ddns.net:8080/live/13080/13080/3090.ts
-#EXTINF:-1,GR: Eurosport 1
-http://pro-iptv.ddns.net:8080/live/13080/13080/3091.ts
-#EXTINF:-1,GR: DIKTYO TV
-http://pro-iptv.ddns.net:8080/live/13080/13080/3092.ts
-#EXTINF:-1,GR: Axeloos TV
-http://pro-iptv.ddns.net:8080/live/13080/13080/3093.ts
-#EXTINF:-1,GR: Astra
-http://pro-iptv.ddns.net:8080/live/13080/13080/3094.ts
-#EXTINF:-1,GR: Art
-http://pro-iptv.ddns.net:8080/live/13080/13080/3095.ts
-#EXTINF:-1,GR: Apeiro TV
-http://pro-iptv.ddns.net:8080/live/13080/13080/3096.ts
-#EXTINF:-1,GR: AIGAIO TV
-http://pro-iptv.ddns.net:8080/live/13080/13080/3097.ts
-#EXTINF:-1,==== OTE Group ====
-http://pro-iptv.ddns.net:8080/live/13080/13080/3930.ts
-#EXTINF:-1,VIP GR: Cosmote Cinema 1 HD
-http://pro-iptv.ddns.net:8080/live/13080/13080/8165.ts
-#EXTINF:-1,VIP GR: Cosmote Cinema 2 HD
-http://pro-iptv.ddns.net:8080/live/13080/13080/8166.ts
-#EXTINF:-1,VIP GR: Cosmote Cinema 3 HD
-http://pro-iptv.ddns.net:8080/live/13080/13080/8167.ts
-#EXTINF:-1,VIP GR: Cosmote Cinema 4 HD
-http://pro-iptv.ddns.net:8080/live/13080/13080/8168.ts
-#EXTINF:-1,VIP GR: Cosmote Sport 1 HD
-http://pro-iptv.ddns.net:8080/live/13080/13080/8158.ts
-#EXTINF:-1,VIP GR: Cosmote Sport 2 HD
-http://pro-iptv.ddns.net:8080/live/13080/13080/8159.ts
-#EXTINF:-1,VIP GR: Cosmote Sport 3 HD
-http://pro-iptv.ddns.net:8080/live/13080/13080/8160.ts
-#EXTINF:-1,VIP GR: Cosmote Sport 4 HD
-http://pro-iptv.ddns.net:8080/live/13080/13080/8161.ts
-#EXTINF:-1,VIP GR: Cosmote Sport 5 HD
-http://pro-iptv.ddns.net:8080/live/13080/13080/8162.ts
-#EXTINF:-1,VIP GR: Cosmote Sport 6 HD
-http://pro-iptv.ddns.net:8080/live/13080/13080/8163.ts
-#EXTINF:-1,VIP GR: Cosmote Sport 7 HD
-http://pro-iptv.ddns.net:8080/live/13080/13080/8164.ts
+#EXTINF:-1,GR: OTE Sport 3HD By www.iptv4free.com
+http://cp.dmbshare.net:8000/live/shane1/shane1/7085.ts
+#EXTINF:-1,GR: OTE Sport 2HD
+http://cp.dmbshare.net:8000/live/shane1/shane1/7086.ts
+#EXTINF:-1,GR: OTE Sport 1HD
+http://cp.dmbshare.net:8000/live/shane1/shane1/7087.ts
+#EXTINF:-1,GR: OTE Cinma 4
+http://cp.dmbshare.net:8000/live/shane1/shane1/7382.ts
+#EXTINF:-1,GR: OTE Cinma 3
+http://cp.dmbshare.net:8000/live/shane1/shane1/7381.ts
+#EXTINF:-1,GR: OTE Cinma 2
+http://cp.dmbshare.net:8000/live/shane1/shane1/7380.ts
+#EXTINF:-1,GR: OTE Cinma 1
+http://cp.dmbshare.net:8000/live/shane1/shane1/7379.ts
 
 
 
