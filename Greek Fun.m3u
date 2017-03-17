@@ -2,291 +2,214 @@
 
 #EXTM3U
 
+
 #EXTM3U
-#EXTINF:-1, Ant1  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/2370.ts
-#EXTINF:-1, Antena 1  IPTVultra.com [704x544]
-http://193.70.44.113:2500/live/iptv100/iptv100/2368.ts
-#EXTINF:-1, KONTRA  IPTVultra.com [720x400]
-http://193.70.44.113:2500/live/iptv100/iptv100/2366.ts
-#EXTINF:-1, Alpha Sat  IPTVultra.com [720x480]
-http://193.70.44.113:2500/live/iptv100/iptv100/6970.ts
-#EXTINF:-1, Astra TV  IPTVultra.com [640x368]
-http://193.70.44.113:2500/live/iptv100/iptv100/6972.ts
-#EXTINF:-1, Action 24  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6963.ts
-#EXTINF:-1, Eurosport 1  IPTVultra.com [720x480]
-http://193.70.44.113:2500/live/iptv100/iptv100/5260.ts
-#EXTINF:-1, KRITI TV  IPTVultra.com [864x480]
-http://193.70.44.113:2500/live/iptv100/iptv100/5262.ts
-#EXTINF:-1, Alpha CY  IPTVultra.com [768x432]
-http://193.70.44.113:2500/live/iptv100/iptv100/6968.ts
-#EXTINF:-1, Agio Nicolaos  IPTVultra.com [640x432]
-http://193.70.44.113:2500/live/iptv100/iptv100/6964.ts
-#EXTINF:-1, Alpha  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/2371.ts
-#EXTINF:-1, foxtv  IPTVultra.com [640x368]
-http://193.70.44.113:2500/live/iptv100/iptv100/6930.ts
-#EXTINF:-1, Discovery Channel  IPTVultra.com [864x480]
-http://193.70.44.113:2500/live/iptv100/iptv100/6951.ts
-#EXTINF:-1, Omega TV  IPTVultra.com [864x480]
-http://193.70.44.113:2500/live/iptv100/iptv100/5258.ts
-#EXTINF:-1, Makedonia  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/2363.ts
-#EXTINF:-1, CARTOONS  IPTVultra.com [640x352]
-http://193.70.44.113:2500/live/iptv100/iptv100/6954.ts
-#EXTINF:-1, NOVA  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/5261.ts
-#EXTINF:-1,TGRT Haber (TR)  IPTVultra.com [864x480]
-http://37.187.253.236:8000/live/line09/gSq01fAByj/120.ts
-#EXTINF:-1, Alpha ( 7)  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6966.ts
-#EXTINF:-1, ERT HD  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/iptv100/iptv100/6938.ts
-#EXTINF:-1, CRETA TV  IPTVultra.com [480x368]
-http://193.70.44.113:2500/live/iptv100/iptv100/6956.ts
-#EXTINF:-1, ANT1 CY  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/iptv100/iptv100/6971.ts
-#EXTINF:-1, Sigma Cy  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/2361.ts
-#EXTINF:-1, Cannali Musiki  IPTVultra.com [864x480]
-http://193.70.44.113:2500/live/iptv100/iptv100/6953.ts
-#EXTINF:-1, Corfu Channel  IPTVultra.com [432x240]
-http://193.70.44.113:2500/live/iptv100/iptv100/6955.ts
-#EXTINF:-1, SAMIAKI  IPTVultra.com [320x240]
-http://193.70.44.113:2500/live/iptv100/iptv100/5255.ts
-#EXTINF:-1, DIKTYO  IPTVultra.com [768x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6950.ts
-#EXTINF:-1, Euronews Gr  IPTVultra.com [320x192]
-http://193.70.44.113:2500/live/iptv100/iptv100/6947.ts
-#EXTINF:-1, ERT3  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6945.ts
-#EXTINF:-1, E.  IPTVultra.com [320x240]
-http://193.70.44.113:2500/live/iptv100/iptv100/6931.ts
-#EXTINF:-1, EXTRA  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6949.ts
-#EXTINF:-1, EPSILON TV ( 7)  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6936.ts
-#EXTINF:-1, BHMA  IPTVultra.com [432x240]
-http://193.70.44.113:2500/live/iptv100/iptv100/6960.ts
-#EXTINF:-1, ATTICA  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6973.ts
-#EXTINF:-1, ERT1  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6939.ts
-#EXTINF:-1, ERT1 ( 7)  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6942.ts
-#EXTINF:-1, Ipiros Tv 1  IPTVultra.com [320x240]
-http://193.70.44.113:2500/live/iptv100/iptv100/6924.ts
-#EXTINF:-1, HEART BEAT  IPTVultra.com [640x368]
-http://193.70.44.113:2500/live/iptv100/iptv100/6925.ts
-#EXTINF:-1, Vouli  IPTVultra.com [960x544]
-http://193.70.44.113:2500/live/iptv100/iptv100/3207.ts
-#EXTINF:-1, ERT1 ( 10)  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6941.ts
-#EXTINF:-1, BlueSky  IPTVultra.com [720x416]
-http://193.70.44.113:2500/live/iptv100/iptv100/6961.ts
-#EXTINF:-1, DNA TV  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/iptv100/iptv100/6952.ts
-#EXTINF:-1, 4E Star  IPTVultra.com [640x480]
-http://193.70.44.113:2500/live/iptv100/iptv100/6962.ts
-#EXTINF:-1, ERT2  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6943.ts
-#EXTINF:-1, Alpha ( 10)  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6965.ts
-#EXTINF:-1, Epsilon TV Cy  IPTVultra.com [432x240]
-http://193.70.44.113:2500/live/iptv100/iptv100/6937.ts
-#EXTINF:-1, FarosOnAir  IPTVultra.com [864x480]
-http://193.70.44.113:2500/live/iptv100/iptv100/6929.ts
-#EXTINF:-1, Ellinikos Fm TV  IPTVultra.com [960x544]
-http://193.70.44.113:2500/live/iptv100/iptv100/6932.ts
-#EXTINF:-1, BEST TV  IPTVultra.com [1280x720]
-http://193.70.44.113:2500/live/iptv100/iptv100/6959.ts
-#EXTINF:-1, SIGMA TV  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/2367.ts
-#EXTINF:-1, Kontra TV  IPTVultra.com [720x400]
-http://193.70.44.113:2500/live/iptv100/iptv100/6919.ts
-#EXTINF:-1, New generation TV  IPTVultra.com [640x368]
-http://193.70.44.113:2500/live/iptv100/iptv100/6905.ts
-#EXTINF:-1, Macedonia TV HD  IPTVultra.com [1920x1088]
-http://193.70.44.113:2500/live/iptv100/iptv100/6908.ts
-#EXTINF:-1, HIGH TV  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6927.ts
-#EXTINF:-1, ERT3  CY  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6946.ts
-#EXTINF:-1, KANALI 6  IPTVultra.com [320x240]
-http://193.70.44.113:2500/live/iptv100/iptv100/6918.ts
-#EXTINF:-1, Magic TV  IPTVultra.com [864x480]
-http://193.70.44.113:2500/live/iptv100/iptv100/6910.ts
-#EXTINF:-1, Lampsi TV  IPTVultra.com [768x432]
-http://193.70.44.113:2500/live/iptv100/iptv100/6915.ts
-#EXTINF:-1, MEGA ( 7)  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6912.ts
-#EXTINF:-1, MAD GR  IPTVultra.com [608x480]
-http://193.70.44.113:2500/live/iptv100/iptv100/6909.ts
-#EXTINF:-1, MEGA COSMOS  IPTVultra.com [720x480]
-http://193.70.44.113:2500/live/iptv100/iptv100/6913.ts
-#EXTINF:-1, Nickelodeon  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6906.ts
-#EXTINF:-1, HellasTV  IPTVultra.com [864x480]
-http://193.70.44.113:2500/live/iptv100/iptv100/6926.ts
-#EXTINF:-1, MegaOne  IPTVultra.com [768x432]
-http://193.70.44.113:2500/live/iptv100/iptv100/6914.ts
-#EXTINF:-1, ERT1  CY  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6940.ts
-#EXTINF:-1, GreekVoice  IPTVultra.com [720x480]
-http://193.70.44.113:2500/live/iptv100/iptv100/6928.ts
-#EXTINF:-1, NetTV Toronto  IPTVultra.com [864x480]
-http://193.70.44.113:2500/live/iptv100/iptv100/6904.ts
-#EXTINF:-1, NEA TV  IPTVultra.com [1024x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6907.ts
-#EXTINF:-1, SPICY bizz  IPTVultra.com [640x368]
-http://193.70.44.113:2500/live/iptv100/iptv100/6890.ts
-#EXTINF:-1, SBC  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6885.ts
-#EXTINF:-1, Skai  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6887.ts
-#EXTINF:-1,Mega  IPTVultra.com [480x368]
-http://193.70.44.113:2500/live/iptv100/iptv100/2362.ts
-#EXTINF:-1,MESSINIA TV  IPTVultra.com [640x368]
-http://193.70.44.113:2500/live/iptv100/iptv100/5257.ts
-#EXTINF:-1, SPICY TV  IPTVultra.com [640x368]
-http://193.70.44.113:2500/live/iptv100/iptv100/6893.ts
-#EXTINF:-1, OTE SPORT 3  IPTVultra.com [720x416]
-http://193.70.44.113:2500/live/iptv100/iptv100/6902.ts
-#EXTINF:-1, Sigma  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6886.ts
-#EXTINF:-1, Smile  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6889.ts
-#EXTINF:-1, KPHTI TV  IPTVultra.com [864x480]
-http://193.70.44.113:2500/live/iptv100/iptv100/6920.ts
-#EXTINF:-1, Star TV ( 7)  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6898.ts
-#EXTINF:-1, SPICY Greek  IPTVultra.com [640x480]
-http://193.70.44.113:2500/live/iptv100/iptv100/6891.ts
-#EXTINF:-1, Tv Filopoli  IPTVultra.com [480x368]
-http://193.70.44.113:2500/live/iptv100/iptv100/6882.ts
-#EXTINF:-1, MEGA ( 10)  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6911.ts
-#EXTINF:-1, SPICY TV CINEMANIA  IPTVultra.com [608x272]
-http://193.70.44.113:2500/live/iptv100/iptv100/6895.ts
-#EXTINF:-1, Star TV Live  IPTVultra.com [640x368]
-http://193.70.44.113:2500/live/iptv100/iptv100/6899.ts
-#EXTINF:-1, STAR HD  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6896.ts
-#EXTINF:-1, Star TV ( 10)  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6897.ts
-#EXTINF:-1, SPICY TV 2  IPTVultra.com [640x272]
-http://193.70.44.113:2500/live/iptv100/iptv100/6894.ts
-#EXTINF:-1, OTE SPORT 1  IPTVultra.com [720x544]
-http://193.70.44.113:2500/live/iptv100/iptv100/6900.ts
-#EXTINF:-1, TV1 Siros  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6883.ts
-#EXTINF:-1, Zougl@ Tv  IPTVultra.com [640x368]
-http://193.70.44.113:2500/live/iptv100/iptv100/6877.ts
-#EXTINF:-1,|GR| ET3  IPTVultra.com [720x576]
-http://37.187.253.95:8000/live/cimino/123456/3850.ts
-#EXTINF:-1,|GR| SKAI  IPTVultra.com [720x576]
-http://37.187.253.95:8000/live/cimino/123456/3851.ts
-#EXTINF:-1,|GR| Pik1  IPTVultra.com [480x368]
-http://37.187.253.95:8000/live/cimino/123456/4008.ts
-#EXTINF:-1,|GR| Plus TV  IPTVultra.com [720x576]
-http://37.187.253.95:8000/live/cimino/123456/4006.ts
-#EXTINF:-1,|GR| Pik2  IPTVultra.com [640x368]
-http://37.187.253.95:8000/live/cimino/123456/4007.ts
-#EXTINF:-1,|GR| NOVA SPORT 2 HD  IPTVultra.com [720x576]
-http://37.187.253.95:8000/live/cimino/123456/7295.ts
-#EXTINF:-1,|GR| MAKEDONIA TV  IPTVultra.com [1280x720]
-http://37.187.253.95:8000/live/cimino/123456/3855.ts
-#EXTINF:-1,|GR| ET2  IPTVultra.com [1280x720]
-http://37.187.253.95:8000/live/cimino/123456/3849.ts
-#EXTINF:-1,|GR| Pik Sat  IPTVultra.com [720x576]
-http://37.187.253.95:8000/live/cimino/123456/3979.ts
-#EXTINF:-1,|GR| Smile  IPTVultra.com [720x576]
-http://37.187.253.95:8000/live/cimino/123456/3975.ts
-#EXTINF:-1,|GR| Mega  IPTVultra.com [1280x720]
-http://37.187.253.95:8000/live/cimino/123456/3983.ts
-#EXTINF:-1,|GR| MEGA TV  IPTVultra.com [1280x720]
-http://37.187.253.95:8000/live/cimino/123456/3854.ts
-#EXTINF:-1,|GR| Rise  IPTVultra.com [720x576]
-http://37.187.253.95:8000/live/cimino/123456/3978.ts
-#EXTINF:-1,|GR| Nickelodeon  IPTVultra.com [720x576]
-http://37.187.253.95:8000/live/cimino/123456/4009.ts
-#EXTINF:-1, TILESPORT  IPTVultra.com [720x576]
-http://193.70.44.113:2500/live/iptv100/iptv100/6880.ts
-#EXTINF:-1,|GR| SBC  IPTVultra.com [480x368]
-http://37.187.253.95:8000/live/cimino/123456/3977.ts
-#EXTINF:-1,|GR| m.  IPTVultra.com [640x368]
-http://37.187.253.95:8000/live/cimino/123456/4012.ts
-#EXTINF:-1,|GR| E TV  IPTVultra.com [720x576]
-http://37.187.253.95:8000/live/cimino/123456/3996.ts
-#EXTINF:-1, XALASTRA TV  IPTVultra.com [864x480]
-http://193.70.44.113:2500/live/iptv100/iptv100/6878.ts
-#EXTINF:-1,|GR| High  IPTVultra.com [720x576]
-http://37.187.253.95:8000/live/cimino/123456/3989.ts
-#EXTINF:-1,|GR| Vouli  IPTVultra.com [960x544]
-http://37.187.253.95:8000/live/cimino/123456/3971.ts
-#EXTINF:-1,|GR| Blue Sky  IPTVultra.com [720x576]
-http://37.187.253.95:8000/live/cimino/123456/3998.ts
-#EXTINF:-1,|GR| ET1  IPTVultra.com [1280x720]
-http://37.187.253.95:8000/live/cimino/123456/3848.ts
-#EXTINF:-1,|GR| Nikelodeon  IPTVultra.com [720x576]
-http://37.187.253.95:8000/live/cimino/123456/3981.ts
-#EXTINF:-1,|GR| NOVA SPORT 1 HD  IPTVultra.com [1280x720]
-http://37.187.253.95:8000/live/cimino/123456/7294.ts
-#EXTINF:-1,|GR| Nick Jr  IPTVultra.com [960x544]
-http://37.187.253.95:8000/live/cimino/123456/4010.ts
-#EXTINF:-1,|GR| ERT HD  IPTVultra.com [1920x1088]
-http://37.187.253.95:8000/live/cimino/123456/3993.ts
-#EXTINF:-1,|GR| Epirus Tv1  IPTVultra.com [416x240]
-http://37.187.253.95:8000/live/cimino/123456/3994.ts
-#EXTINF:-1,|GR| Extra  IPTVultra.com [720x576]
-http://37.187.253.95:8000/live/cimino/123456/3990.ts
-#EXTINF:-1,|GR| ERT 1  IPTVultra.com [1280x720]
-http://37.187.253.95:8000/live/cimino/123456/3992.ts
-#EXTINF:-1,|GR| Ekai  IPTVultra.com [608x480]
-http://37.187.253.95:8000/live/cimino/123456/3995.ts
-#EXTINF:-1,|GR| Krhth Tv  IPTVultra.com [864x480]
-http://37.187.253.95:8000/live/cimino/123456/3987.ts
-#EXTINF:-1,|GR| Discovery Channel  IPTVultra.com [720x576]
-http://37.187.253.95:8000/live/cimino/123456/4016.ts
-#EXTINF:-1,|GR| Kontra  IPTVultra.com [720x576]
-http://37.187.253.95:8000/live/cimino/123456/3988.ts
-#EXTINF:-1,|GR| Alpha  IPTVultra.com [720x576]
-http://37.187.253.95:8000/live/cimino/123456/4003.ts
-#EXTINF:-1,|GR| Ant1 Cy  IPTVultra.com [768x432]
-http://37.187.253.95:8000/live/cimino/123456/4002.ts
-#EXTINF:-1,|GR| Action 24  IPTVultra.com [720x576]
-http://37.187.253.95:8000/live/cimino/123456/4004.ts
-#EXTINF:-1,|GR| Boyah  IPTVultra.com [640x368]
-http://37.187.253.95:8000/live/cimino/123456/3997.ts
-#EXTINF:-1,|GR| Attica  IPTVultra.com [720x576]
-http://37.187.253.95:8000/live/cimino/123456/3999.ts
-#EXTINF:-1,|GR| ERT 2  IPTVultra.com [1280x720]
-http://37.187.253.95:8000/live/cimino/123456/3991.ts
-#EXTINF:-1,|GR| AB  IPTVultra.com [720x576]
-http://37.187.253.95:8000/live/cimino/123456/4005.ts
-#EXTINF:-1, OTE SPORT 2  IPTVultra.com [854x480]
-http://149.202.93.187:8000/live/iUWMXk393L/JHsiF0r1gI/47.ts
-#EXTINF:-1, OTE SPORT 1  IPTVultra.com [854x480]
-http://149.202.93.187:8000/live/iUWMXk393L/JHsiF0r1gI/46.ts
-#EXTINF:-1, ERT 2  IPTVultra.com [1280x720]
-http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/724.ts
-#EXTINF:-1, ERT 1  IPTVultra.com [720x576]
-http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/725.ts
-#EXTINF:-1, Star  IPTVultra.com [720x576]
-http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/728.ts
-#EXTINF:-1, Ant 1  IPTVultra.com [1280x720]
-http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/730.ts
-#EXTINF:-1, Skai  IPTVultra.com [720x576]
-http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/726.ts
-#EXTINF:-1, Sigma Cy  IPTVultra.com [720x576]
-http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/722.ts
-#EXTINF:-1, Alpha  IPTVultra.com [720x576]
-http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/727.ts
-#EXTINF:-1, Mega  IPTVultra.com [704x544]
-http://163.172.53.3:25461/live/Vki1iyTgSl/CYqipk4Ehs/729.ts
-
-
+#EXTINF:-1,GR: 4E
+http://s1.finoip.com:20000/live/mark/mark/3065.ts
+#EXTINF:-1,GR: AB Channel
+http://s1.finoip.com:20000/live/mark/mark/3066.ts
+#EXTINF:-1,GR: Action24
+http://s1.finoip.com:20000/live/mark/mark/3067.ts
+#EXTINF:-1,GR: Alpha TV
+http://s1.finoip.com:20000/live/mark/mark/3068.ts
+#EXTINF:-1,GR: Ant1
+http://s1.finoip.com:20000/live/mark/mark/3069.ts
+#EXTINF:-1,GR: ANT1 CY
+http://s1.finoip.com:20000/live/mark/mark/3070.ts
+#EXTINF:-1,GR: ART
+http://s1.finoip.com:20000/live/mark/mark/3071.ts
+#EXTINF:-1,GR: ATTICA TV
+http://s1.finoip.com:20000/live/mark/mark/3072.ts
+#EXTINF:-1,GR: Blue Sky
+http://s1.finoip.com:20000/live/mark/mark/3073.ts
+#EXTINF:-1,GR: Channel 9
+http://s1.finoip.com:20000/live/mark/mark/3074.ts
+#EXTINF:-1,GR: DW
+http://s1.finoip.com:20000/live/mark/mark/3075.ts
+#EXTINF:-1,GR: E
+http://s1.finoip.com:20000/live/mark/mark/3076.ts
+#EXTINF:-1,GR: ERT HD
+http://s1.finoip.com:20000/live/mark/mark/3077.ts
+#EXTINF:-1,GR: ERT1
+http://s1.finoip.com:20000/live/mark/mark/3078.ts
+#EXTINF:-1,GR: ERT2
+http://s1.finoip.com:20000/live/mark/mark/3079.ts
+#EXTINF:-1,GR: ERT3
+http://s1.finoip.com:20000/live/mark/mark/3080.ts
+#EXTINF:-1,GR: EXTRA
+http://s1.finoip.com:20000/live/mark/mark/3081.ts
+#EXTINF:-1,GR: HIGH TV
+http://s1.finoip.com:20000/live/mark/mark/3082.ts
+#EXTINF:-1,GR: Jazee
+http://s1.finoip.com:20000/live/mark/mark/3083.ts
+#EXTINF:-1,GR: KONTRA
+http://s1.finoip.com:20000/live/mark/mark/3084.ts
+#EXTINF:-1,GR: KRHTH TV
+http://s1.finoip.com:20000/live/mark/mark/3085.ts
+#EXTINF:-1,GR: M.tv
+http://s1.finoip.com:20000/live/mark/mark/3086.ts
+#EXTINF:-1,GR: MAD CY
+http://s1.finoip.com:20000/live/mark/mark/3087.ts
+#EXTINF:-1,GR: MAD TV
+http://s1.finoip.com:20000/live/mark/mark/3088.ts
+#EXTINF:-1,GR: MAKELEIO
+http://s1.finoip.com:20000/live/mark/mark/3089.ts
+#EXTINF:-1,GR: Mega TV
+http://s1.finoip.com:20000/live/mark/mark/3090.ts
+#EXTINF:-1,GR: MPAXALO TV
+http://s1.finoip.com:20000/live/mark/mark/3091.ts
+#EXTINF:-1,GR: NEA TV
+http://s1.finoip.com:20000/live/mark/mark/3092.ts
+#EXTINF:-1,GR: Nickelodeon
+http://s1.finoip.com:20000/live/mark/mark/3093.ts
+#EXTINF:-1,GR: RIK
+http://s1.finoip.com:20000/live/mark/mark/3094.ts
+#EXTINF:-1,GR: RISE
+http://s1.finoip.com:20000/live/mark/mark/3095.ts
+#EXTINF:-1,GR: SBC
+http://s1.finoip.com:20000/live/mark/mark/3096.ts
+#EXTINF:-1,GR: SKAI
+http://s1.finoip.com:20000/live/mark/mark/3097.ts
+#EXTINF:-1,GR: SMILE
+http://s1.finoip.com:20000/live/mark/mark/3098.ts
+#EXTINF:-1,GR: STAR
+http://s1.finoip.com:20000/live/mark/mark/3099.ts
+#EXTINF:-1,GR: SUNNY CHANNEL
+http://s1.finoip.com:20000/live/mark/mark/3100.ts
+#EXTINF:-1,GR: SYGMA CY
+http://s1.finoip.com:20000/live/mark/mark/3101.ts
+#EXTINF:-1,GR: VOULI
+http://s1.finoip.com:20000/live/mark/mark/3102.ts
+#EXTINF:-1,GR: ZOUGLA
+http://s1.finoip.com:20000/live/mark/mark/3103.ts
+#EXTINF:-1,GR: ZOUGLA TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22588.ts
+#EXTINF:-1,GR: WZRA KIDS
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22657.ts
+#EXTINF:-1,GR: WZRA
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22662.ts
+#EXTINF:-1,GR: WEST CHANNEL
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22626.ts
+#EXTINF:-1,GR: VOULI
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22604.ts
+#EXTINF:-1,GR: TV-100
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22610.ts
+#EXTINF:-1,GR: TV MYTILINI
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22650.ts
+#EXTINF:-1,GR: TV 1
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22649.ts
+#EXTINF:-1,GR: TRT TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22634.ts
+#EXTINF:-1,GR: TRT
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22706.ts
+#EXTINF:-1,GR: TOP CHANNEL
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22625.ts
+#EXTINF:-1,GR: TILESPORT
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22655.ts
+#EXTINF:-1,GR: THLESPORT
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22723.ts
+#EXTINF:-1,GR: THLE MOUSIKH
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22665.ts
+#EXTINF:-1,GR: SIGMA CY
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22599.ts
+#EXTINF:-1,GR: SBC
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22584.ts
+#EXTINF:-1,GR: SAMIAKI TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22647.ts
+#EXTINF:-1,GR: RYTHMOS 94.3 WEB TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22676.ts
+#EXTINF:-1,GR: RADIO VERENIKI WEB TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22675.ts
+#EXTINF:-1,GR: OMEGA TELEVISION
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22646.ts
+#EXTINF:-1,GR: OMEGA
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22717.ts
+#EXTINF:-1,GR: Nat Geo GR
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/10444.ts
+#EXTINF:-1,GR: NICKELODEON
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/9042.ts
+#EXTINF:-1,GR: NEA TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22607.ts
+#EXTINF:-1,GR: NATURA CINEMA
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22593.ts
+#EXTINF:-1,GR: MESSINIA WEB TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22651.ts
+#EXTINF:-1,GR: MEGA
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22571.ts
+#EXTINF:-1,GR: MANA ELLADA WEB TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22669.ts
+#EXTINF:-1,GR: MAKELEIO WEB TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22667.ts
+#EXTINF:-1,GR: MAD CY
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22600.ts
+#EXTINF:-1,GR: M.TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22582.ts
+#EXTINF:-1,GR: LYXNOC
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22603.ts
+#EXTINF:-1,GR: KRHTH TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22721.ts
+#EXTINF:-1,GR: KPHTH TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22606.ts
+#EXTINF:-1,GR: KANALI 6
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22618.ts
+#EXTINF:-1,GR: JAYZEE
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22587.ts
+#EXTINF:-1,GR: ITV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22632.ts
+#EXTINF:-1,GR: History GR
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/9041.ts
+#EXTINF:-1,GR: Fox Life GR
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/10445.ts
+#EXTINF:-1,GR: Fox GR
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/9040.ts
+#EXTINF:-1,GR: EURONEWS
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22595.ts
+#EXTINF:-1,GR: ELLINIKOS FM WEB TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22663.ts
+#EXTINF:-1,GR: EBS PLUS
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22659.ts
+#EXTINF:-1,GR: EBS
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22658.ts
+#EXTINF:-1,GR: DIKTYO TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22615.ts
+#EXTINF:-1,GR: CRETA WEB TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22719.ts
+#EXTINF:-1,GR: CRETA TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22652.ts
+#EXTINF:-1,GR: CORFU CHANNEL
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22630.ts
+#EXTINF:-1,GR: BHMA TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22629.ts
+#EXTINF:-1,GR: AXELWOS TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22628.ts
+#EXTINF:-1,GR: ASTRA TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22633.ts
+#EXTINF:-1,GR: ART TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22627.ts
+#EXTINF:-1,GR: ANT1 BUP 2
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22576.ts
+#EXTINF:-1,GR: AIGAIOTV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22644.ts
+#EXTINF:-1,GR: AIGAIO
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22715.ts
+#EXTINF:-1,GR: AGIOS NIKOLAOS MICHIGAN WEB TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22679.ts
+#EXTINF:-1,GR: AGIOS GEORGIOS HUDSON WEB TV
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22677.ts
+#EXTINF:-1,GR: 4E
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/22602.ts
+#EXTINF:-1,GR: ZOUGLA
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/20282.ts
+#EXTINF:-1,GR: Travel GR
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/9051.ts
+#EXTINF:-1,GR: SKAI
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/20273.ts
+#EXTINF:-1,GR: Mega
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/20274.ts
+#EXTINF:-1,GR: Kontra Tv
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/12493.ts
+#EXTINF:-1,GR: KONTRA
+http://5.254.66.188/live/gio17132/fVcLn0lEYf/20304.ts
 
 
 
