@@ -2,215 +2,85 @@
 
 #EXTM3U
 
-
 #EXTM3U
-#EXTINF:-1,GR: 4E
-http://s1.finoip.com:20000/live/mark/mark/3065.ts
-#EXTINF:-1,GR: AB Channel
-http://s1.finoip.com:20000/live/mark/mark/3066.ts
-#EXTINF:-1,GR: Action24
-http://s1.finoip.com:20000/live/mark/mark/3067.ts
-#EXTINF:-1,GR: Alpha TV
-http://s1.finoip.com:20000/live/mark/mark/3068.ts
-#EXTINF:-1,GR: Ant1
-http://s1.finoip.com:20000/live/mark/mark/3069.ts
-#EXTINF:-1,GR: ANT1 CY
-http://s1.finoip.com:20000/live/mark/mark/3070.ts
-#EXTINF:-1,GR: ART
-http://s1.finoip.com:20000/live/mark/mark/3071.ts
-#EXTINF:-1,GR: ATTICA TV
-http://s1.finoip.com:20000/live/mark/mark/3072.ts
-#EXTINF:-1,GR: Blue Sky
-http://s1.finoip.com:20000/live/mark/mark/3073.ts
-#EXTINF:-1,GR: Channel 9
-http://s1.finoip.com:20000/live/mark/mark/3074.ts
-#EXTINF:-1,GR: DW
-http://s1.finoip.com:20000/live/mark/mark/3075.ts
-#EXTINF:-1,GR: E
-http://s1.finoip.com:20000/live/mark/mark/3076.ts
-#EXTINF:-1,GR: ERT HD
-http://s1.finoip.com:20000/live/mark/mark/3077.ts
-#EXTINF:-1,GR: ERT1
-http://s1.finoip.com:20000/live/mark/mark/3078.ts
-#EXTINF:-1,GR: ERT2
-http://s1.finoip.com:20000/live/mark/mark/3079.ts
-#EXTINF:-1,GR: ERT3
-http://s1.finoip.com:20000/live/mark/mark/3080.ts
-#EXTINF:-1,GR: EXTRA
-http://s1.finoip.com:20000/live/mark/mark/3081.ts
-#EXTINF:-1,GR: HIGH TV
-http://s1.finoip.com:20000/live/mark/mark/3082.ts
-#EXTINF:-1,GR: Jazee
-http://s1.finoip.com:20000/live/mark/mark/3083.ts
-#EXTINF:-1,GR: KONTRA
-http://s1.finoip.com:20000/live/mark/mark/3084.ts
-#EXTINF:-1,GR: KRHTH TV
-http://s1.finoip.com:20000/live/mark/mark/3085.ts
-#EXTINF:-1,GR: M.tv
-http://s1.finoip.com:20000/live/mark/mark/3086.ts
-#EXTINF:-1,GR: MAD CY
-http://s1.finoip.com:20000/live/mark/mark/3087.ts
-#EXTINF:-1,GR: MAD TV
-http://s1.finoip.com:20000/live/mark/mark/3088.ts
-#EXTINF:-1,GR: MAKELEIO
-http://s1.finoip.com:20000/live/mark/mark/3089.ts
-#EXTINF:-1,GR: Mega TV
-http://s1.finoip.com:20000/live/mark/mark/3090.ts
-#EXTINF:-1,GR: MPAXALO TV
-http://s1.finoip.com:20000/live/mark/mark/3091.ts
-#EXTINF:-1,GR: NEA TV
-http://s1.finoip.com:20000/live/mark/mark/3092.ts
-#EXTINF:-1,GR: Nickelodeon
-http://s1.finoip.com:20000/live/mark/mark/3093.ts
-#EXTINF:-1,GR: RIK
-http://s1.finoip.com:20000/live/mark/mark/3094.ts
-#EXTINF:-1,GR: RISE
-http://s1.finoip.com:20000/live/mark/mark/3095.ts
-#EXTINF:-1,GR: SBC
-http://s1.finoip.com:20000/live/mark/mark/3096.ts
-#EXTINF:-1,GR: SKAI
-http://s1.finoip.com:20000/live/mark/mark/3097.ts
-#EXTINF:-1,GR: SMILE
-http://s1.finoip.com:20000/live/mark/mark/3098.ts
-#EXTINF:-1,GR: STAR
-http://s1.finoip.com:20000/live/mark/mark/3099.ts
-#EXTINF:-1,GR: SUNNY CHANNEL
-http://s1.finoip.com:20000/live/mark/mark/3100.ts
-#EXTINF:-1,GR: SYGMA CY
-http://s1.finoip.com:20000/live/mark/mark/3101.ts
+#EXTINF:-1,GR: Kontra TV
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/978.ts
 #EXTINF:-1,GR: VOULI
-http://s1.finoip.com:20000/live/mark/mark/3102.ts
-#EXTINF:-1,GR: ZOUGLA
-http://s1.finoip.com:20000/live/mark/mark/3103.ts
-#EXTINF:-1,GR: ZOUGLA TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22588.ts
-#EXTINF:-1,GR: WZRA KIDS
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22657.ts
-#EXTINF:-1,GR: WZRA
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22662.ts
-#EXTINF:-1,GR: WEST CHANNEL
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22626.ts
-#EXTINF:-1,GR: VOULI
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22604.ts
-#EXTINF:-1,GR: TV-100
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22610.ts
-#EXTINF:-1,GR: TV MYTILINI
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22650.ts
-#EXTINF:-1,GR: TV 1
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22649.ts
-#EXTINF:-1,GR: TRT TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22634.ts
-#EXTINF:-1,GR: TRT
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22706.ts
-#EXTINF:-1,GR: TOP CHANNEL
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22625.ts
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2297.ts
+#EXTINF:-1,GR: TV 1000
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/1648.ts
 #EXTINF:-1,GR: TILESPORT
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22655.ts
-#EXTINF:-1,GR: THLESPORT
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22723.ts
-#EXTINF:-1,GR: THLE MOUSIKH
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22665.ts
-#EXTINF:-1,GR: SIGMA CY
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22599.ts
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2299.ts
+#EXTINF:-1,GR: Thraki TV
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2300.ts
+#EXTINF:-1,GR: Thema TV
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2301.ts
+#EXTINF:-1,GR: Star TV
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2302.ts
+#EXTINF:-1,GR: 4E Star
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/1647.ts
+#EXTINF:-1,GR: Skai
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2303.ts
+#EXTINF:-1,GR: Sigma
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/1646.ts
 #EXTINF:-1,GR: SBC
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22584.ts
-#EXTINF:-1,GR: SAMIAKI TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22647.ts
-#EXTINF:-1,GR: RYTHMOS 94.3 WEB TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22676.ts
-#EXTINF:-1,GR: RADIO VERENIKI WEB TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22675.ts
-#EXTINF:-1,GR: OMEGA TELEVISION
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22646.ts
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2304.ts
+#EXTINF:-1,GR: SAMIAKI
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2305.ts
+#EXTINF:-1,GR: Omega TV
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/1645.ts
 #EXTINF:-1,GR: OMEGA
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22717.ts
-#EXTINF:-1,GR: Nat Geo GR
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/10444.ts
-#EXTINF:-1,GR: NICKELODEON
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/9042.ts
-#EXTINF:-1,GR: NEA TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22607.ts
-#EXTINF:-1,GR: NATURA CINEMA
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22593.ts
-#EXTINF:-1,GR: MESSINIA WEB TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22651.ts
-#EXTINF:-1,GR: MEGA
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22571.ts
-#EXTINF:-1,GR: MANA ELLADA WEB TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22669.ts
-#EXTINF:-1,GR: MAKELEIO WEB TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22667.ts
-#EXTINF:-1,GR: MAD CY
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22600.ts
-#EXTINF:-1,GR: M.TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22582.ts
-#EXTINF:-1,GR: LYXNOC
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22603.ts
-#EXTINF:-1,GR: KRHTH TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22721.ts
-#EXTINF:-1,GR: KPHTH TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22606.ts
-#EXTINF:-1,GR: KANALI 6
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22618.ts
-#EXTINF:-1,GR: JAYZEE
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22587.ts
-#EXTINF:-1,GR: ITV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22632.ts
-#EXTINF:-1,GR: History GR
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/9041.ts
-#EXTINF:-1,GR: Fox Life GR
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/10445.ts
-#EXTINF:-1,GR: Fox GR
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/9040.ts
-#EXTINF:-1,GR: EURONEWS
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22595.ts
-#EXTINF:-1,GR: ELLINIKOS FM WEB TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22663.ts
-#EXTINF:-1,GR: EBS PLUS
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22659.ts
-#EXTINF:-1,GR: EBS
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22658.ts
-#EXTINF:-1,GR: DIKTYO TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22615.ts
-#EXTINF:-1,GR: CRETA WEB TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22719.ts
-#EXTINF:-1,GR: CRETA TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22652.ts
-#EXTINF:-1,GR: CORFU CHANNEL
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22630.ts
-#EXTINF:-1,GR: BHMA TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22629.ts
-#EXTINF:-1,GR: AXELWOS TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22628.ts
-#EXTINF:-1,GR: ASTRA TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22633.ts
-#EXTINF:-1,GR: ART TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22627.ts
-#EXTINF:-1,GR: ANT1 BUP 2
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22576.ts
-#EXTINF:-1,GR: AIGAIOTV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22644.ts
-#EXTINF:-1,GR: AIGAIO
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22715.ts
-#EXTINF:-1,GR: AGIOS NIKOLAOS MICHIGAN WEB TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22679.ts
-#EXTINF:-1,GR: AGIOS GEORGIOS HUDSON WEB TV
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22677.ts
-#EXTINF:-1,GR: 4E
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/22602.ts
-#EXTINF:-1,GR: ZOUGLA
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/20282.ts
-#EXTINF:-1,GR: Travel GR
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/9051.ts
-#EXTINF:-1,GR: SKAI
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/20273.ts
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2306.ts
+#EXTINF:-1,GR: NEA
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2307.ts
+#EXTINF:-1,GR: MESSINIA TV
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2308.ts
 #EXTINF:-1,GR: Mega
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/20274.ts
-#EXTINF:-1,GR: Kontra Tv
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/12493.ts
-#EXTINF:-1,GR: KONTRA
-http://5.254.66.188/live/gio17132/fVcLn0lEYf/20304.ts
-
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2309.ts
+#EXTINF:-1,GR: Makeleio Web Tv
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2310.ts
+#EXTINF:-1,GR: Lepanto
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2311.ts
+#EXTINF:-1,GR: KRITI TV
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2312.ts
+#EXTINF:-1,GR: Hpeiros TV1
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2313.ts
+#EXTINF:-1,GR: EXTRA
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2314.ts
+#EXTINF:-1,GR: Eurosport 2
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2315.ts
+#EXTINF:-1,GR: Eurosport 1
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2316.ts
+#EXTINF:-1,GR: ERT2
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2317.ts
+#EXTINF:-1,GR: ERT1
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2318.ts
+#EXTINF:-1,GR: ERT 3
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2319.ts
+#EXTINF:-1,GR: EPIRUS TV1
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2320.ts
+#EXTINF:-1,GR: Ellinikosfm TV
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2321.ts
+#EXTINF:-1,GR: E
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2322.ts
+#EXTINF:-1,GR: DIKTYO
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2298.ts
+#EXTINF:-1,GR: Blue Sky
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/1642.ts
+#EXTINF:-1,GR: Axeloos TV
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2323.ts
+#EXTINF:-1,GR: Art
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2324.ts
+#EXTINF:-1,GR: Apeiro TV
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2325.ts
+#EXTINF:-1,GR: ANT1
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2326.ts
+#EXTINF:-1,GR: Alpha
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2327.ts
+#EXTINF:-1,GR: AIGAIO TV
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2328.ts
+#EXTINF:-1,GR: 4E
+http://ksportiptv.com:1557/live/iptvlinks25/QGk4yBf2dT/2329.ts
 
 
 
