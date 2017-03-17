@@ -2,8 +2,316 @@
 
 #EXTM3U
 
-Первый
-http://141.105.39.201:81/udp/238.1.1.1:1234
+#EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]--- 01-03-2017 ---[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --REDENEOBUX.COM 01-03-2017--[/COLOR]
+
+
+#EXTINF:-1,[I][B][COLOR red]-------------------------- [COLOR green]ATTENTION[/COLOR] --------------------------[/COLOR][/B][/I]
+
+ 
+#EXTINF:-1,[I][B][COLOR white]All these streams can be easily found over the internet.[/COLOR][/B][/I]
+
+ 
+#EXTINF:-1,[I][B][COLOR white]We DO NOT host any streams on this list. All content is copyright of their respective owners.[/COLOR][/B][/I]
+
+ 
+#EXTINF:-1,[I][B][COLOR orange]------------------- WE ONLY SHARE! --------------------[/COLOR][/B][/I]
+ 
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR white][I][B]--f4mTester Addon and Playlist Loader Addon Required for Kodi --[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR blue][I][B]Important Note: [/B][/I][/COLOR][COLOR orange][I][B] To avoid freezing or crashing, please update[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR orange][I][B] f4mTester addon to the latest version.[/B][/I][/COLOR]
+
+#EXTINF:-1, [COLOR orange] ADULTS XXX --- Temporary Channels ---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,XXX: Adult 4K: VOD1
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/33001.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Adult 4K: VOD10
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/33000.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Adult 4K: VOD11
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32999.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Adult 4K: VOD2
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32998.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Adult 4K: VOD3
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32997.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Adult 4K: VOD4
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32996.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Adult 4K: VOD5
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32995.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Adult 4K: VOD6
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32994.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Adult 4K: VOD7
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32993.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Adult 4K: VOD8
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32992.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Adult 4K: VOD9
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32991.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: ADULT HOTCLUB 1 HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32990.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: ADULT HOTCLUB 10 HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32989.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: ADULT HOTCLUB 2 HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32988.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: ADULT HOTCLUB 3 HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32987.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: ADULT HOTCLUB 4 HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32986.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: ADULT HOTCLUB 5 HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32985.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: ADULT HOTCLUB 6 HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32984.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: ADULT HOTCLUB 7 HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32983.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: ADULT HOTCLUB 8 HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32982.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: ADULT HOTCLUB 9 HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32981.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: AnySex
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32980.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: B HOT HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32979.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Babes 1
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32978.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Babes 10
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32977.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Babes 11
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32976.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Babes 12
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32975.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Babes 14
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32974.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Babes 15
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32973.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Babes 16
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32972.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Babes 17
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32971.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Babes 18
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32970.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Babes 19
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32969.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Babes 2
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32968.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Babes 20
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32967.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Babes 3
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32966.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Babes 4
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32965.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Babes 5
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32964.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Babes 6
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32963.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Babes 7
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32962.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Babes 8
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32961.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Babes 9
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32960.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: BIZARE TRING
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32959.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: BRAZZERS
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32958.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: BRAZZERS TV EUROPE
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32957.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: ButGo
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32956.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: CENTOXCENTO TV
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32955.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: CHANNEL X 1 (digitalb)
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32954.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: CHANNEL X 2 (digitalb)
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32953.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: CHANNEL X 3 (digitalb)
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32952.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: DAUGHTER SWAP
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32951.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: DORCEL
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32950.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: DUSK
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32949.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: ENJOY PREMIUM
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32948.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: ENNDYTV
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32947.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: EROTIC 1
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32946.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: EROTIC 2
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32945.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: EROTIC 3
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32944.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: EROTIC 4
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32943.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: EROTIC 5
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32942.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: EROTIC 6
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32941.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: EROTIC 7
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32940.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: EROTIC 8
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32939.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: EROXXX
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32938.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: EXOTICA TV
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32937.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: HARDX
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32936.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: HONEY HOT HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32935.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: HUSTLER TV
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32934.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: HUSTLERXXX
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32933.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: JASMIN.TV HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32932.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Lethal Hardcore
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32931.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Maiden van Holland
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32930.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: MOFOS
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32929.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: MOXXX GAY
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32928.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: MXXX
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32927.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: MY FIRST PUBLIC
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32926.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: PASSIEXXX
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32925.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: PENTHOUSE HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32924.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: PENTHOUSEX1
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32923.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: PINK O
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32922.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: PlayBoy TV
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32921.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: PLAYBOY TV HD  18
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32920.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: PlayBoy.Tv
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32919.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: PLEASURE
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32918.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: PRIVATE
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32917.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: PRIVATE HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32916.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Reality Sex
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32915.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: RETRO X
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32914.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: RK HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32913.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: ROCO SIFFREDI
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32912.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: SCT
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32911.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: SESTO SENSO
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32910.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: Sex Channel
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32909.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: SEX SEX HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32908.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: SIRINA
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32907.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: SPICE TV
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32906.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: SUPERONE
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32905.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: VENUS HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32904.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: VIKI XXX
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32903.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: XXL HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32902.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: XXX STARS
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32901.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: YOGA HOT HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32900.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: YOGA HOT1 HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32899.ts&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1,XXX: YOGA HOT2 HD
+plugin://plugin.video.f4mTester/?url=http://185.71.66.22:8000/live/lomantoiv/BWUpMZTD/32898.ts&amp;streamtype=TSDOWNLOADER
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,PLAYBOY TV
+rtmp://edge1.everyon.tv/etv1sb//phd10497
+#EXTINF:-1,XXX TV
+rtmp://edge1.everyon.tv/etv1sb//phd10765
+#EXTINF:-1,XXX TV
+rtmp://edge1.everyon.tv/etv1sb//phd10928
+#EXTINF:-1,XXX TV
+rtmp://edge1.everyon.tv/etv1sb//phd10927
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,Nuart
+http://134.19.153.137:9669/udp/239.195.6.33:1234
+#EXTINF:-1,Ночной клуб
+http://134.19.153.137:9669/udp/239.195.2.1:1234
+#EXTINF:-1,Русская ночь
+http://134.19.153.137:9669/udp/239.195.2.3:1234
+#EXTINF:-1,Brazzers tv
+http://134.19.153.137:9669/udp/239.195.2.4:1234
+#EXTINF:-1,Play boy
+http://134.19.153.137:9669/udp/239.195.2.5:1234
+#EXTINF:-1,Egoist tv
+http://134.19.153.137:9669/udp/239.195.6.32:1234
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,Jasmin (720p)
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+#EXTINF:-1,FOXXBabes (480p)
+http://publish.thewebstream.co:1935/leved/foxxxbabes/playlist.m3u8
+#EXTINF:-1,Sexysat (540p)
+http://81.89.48.215:1935/xyz666wkz/xy6/chunklist.m3u8
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:0,Dollhouse Main
+rtmp://216.105.165.71:1950/stream49/live
+#EXTINF:0,Dollhouse Back
+rtmp://216.105.165.72:1941/stream9/live
+#EXTINF:-1,Dollhouse CAM
+rtmp://216.105.165.72:1939/stream7/live
+#EXTINF:0,Dollhouse Dressing Room
+rtmp://216.105.165.72:1940/stream8/live
+
+#EXTINF:-1,[COLOR red][I][B]---------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:0,Jasmin
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?www.jasmin.com
+#EXTINF:0,Buzz
+http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel2/playlist.m3u8
+
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+
+#EXTINF:-1,Jasmin.tv
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR red][I][B]--------------------------------------------------------------[/B][/I][/COLOR]
+
+
+
+
+
+
+
+
 
 
 
