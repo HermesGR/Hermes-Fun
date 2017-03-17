@@ -2,6 +2,150 @@
 
 #EXTM3U
 
+#EXTINF:-1,GR: OTE Cinma 1
+http://163.172.6.8:8000/live/benfica/benfica/1427.ts
+#EXTINF:-1,GR: OTE Cinma 2
+http://163.172.6.8:8000/live/benfica/benfica/1426.ts
+#EXTINF:-1,GR: OTE Cinma 3
+http://163.172.6.8:8000/live/benfica/benfica/1425.ts
+#EXTINF:-1,GR: OTE Cinma 4
+http://163.172.6.8:8000/live/benfica/benfica/1424.ts
+#EXTINF:-1,GR: OTE Sport 1
+http://163.172.6.8:8000/live/benfica/benfica/831.ts
+#EXTINF:-1,GR: OTE Sport 2
+http://163.172.6.8:8000/live/benfica/benfica/838.ts
+#EXTINF:-1,GR: OTE Sport 3
+http://163.172.6.8:8000/live/benfica/benfica/837.ts
+#EXTINF:-1,GR: OTE Sport 4
+http://163.172.6.8:8000/live/benfica/benfica/836.ts
+#EXTINF:-1,GR: Astra Supersport 1
+http://163.172.6.8:8000/live/benfica/benfica/845.ts
+#EXTINF:-1,GR: Astra Supersport 2
+http://163.172.6.8:8000/live/benfica/benfica/844.ts
+#EXTINF:-1,GR: Astra Supersport 3
+http://163.172.6.8:8000/live/benfica/benfica/843.ts
+#EXTINF:-1,GR: Astra Supersport 4
+http://163.172.6.8:8000/live/benfica/benfica/842.ts
+#EXTINF:-1,GR: SPICY Greek Palmos
+http://163.172.6.8:8000/live/benfica/benfica/1409.ts
+#EXTINF:-1,GR: SPICY Greek
+http://163.172.6.8:8000/live/benfica/benfica/1410.ts
+#EXTINF:-1,GR: SPICY Cinemania
+http://163.172.6.8:8000/live/benfica/benfica/1408.ts
+#EXTINF:-1,GR: Alpha Cinema
+http://163.172.6.8:8000/live/benfica/benfica/1407.ts
+#EXTINF:-1,GR: Fox tv
+http://163.172.6.8:8000/live/benfica/benfica/1417.ts
+#EXTINF:-1,GR: TV Creta
+http://163.172.6.8:8000/live/benfica/benfica/839.ts
+#EXTINF:-1,GR: 4E
+http://163.172.6.8:8000/live/benfica/benfica/841.ts
+#EXTINF:-1,GR: Zougla
+http://163.172.6.8:8000/live/benfica/benfica/840.ts
+#EXTINF:-1,GR: Rise
+http://163.172.6.8:8000/live/benfica/benfica/870.ts
+#EXTINF:-1,GR: Tv1
+http://163.172.6.8:8000/live/benfica/benfica/868.ts
+#EXTINF:-1,GR: Creta tv
+http://163.172.6.8:8000/live/benfica/benfica/869.ts
+#EXTINF:-1,GR: Sigma Tv
+http://163.172.6.8:8000/live/benfica/benfica/867.ts
+#EXTINF:-1,GR: Tilesport
+http://163.172.6.8:8000/live/benfica/benfica/1423.ts
+#EXTINF:-1,GR: National Geo HD
+http://163.172.6.8:8000/live/benfica/benfica/1422.ts
+#EXTINF:-1,GR: Messinia
+http://163.172.6.8:8000/live/benfica/benfica/846.ts
+#EXTINF:-1,GR: BRT 1
+http://163.172.6.8:8000/live/benfica/benfica/878.ts
+#EXTINF:-1,GR: Astra tv
+http://163.172.6.8:8000/live/benfica/benfica/877.ts
+#EXTINF:-1,GR: TV100
+http://163.172.6.8:8000/live/benfica/benfica/874.ts
+#EXTINF:-1,GR: Nea TV
+http://163.172.6.8:8000/live/benfica/benfica/875.ts
+#EXTINF:-1,GR: Kontra Channel
+http://163.172.6.8:8000/live/benfica/benfica/876.ts
+#EXTINF:-1,GR: EXTRA
+http://163.172.6.8:8000/live/benfica/benfica/873.ts
+#EXTINF:-1,GR: EPT Apxeio
+http://163.172.6.8:8000/live/benfica/benfica/861.ts
+#EXTINF:-1,GR: Samiaki
+http://163.172.6.8:8000/live/benfica/benfica/860.ts
+#EXTINF:-1,GR: EPT HD
+http://163.172.6.8:8000/live/benfica/benfica/872.ts
+#EXTINF:-1,GR: EPT 1
+http://163.172.6.8:8000/live/benfica/benfica/871.ts
+#EXTINF:-1,GR: EPT 2
+http://163.172.6.8:8000/live/benfica/benfica/866.ts
+#EXTINF:-1,GR: EPT 3
+http://163.172.6.8:8000/live/benfica/benfica/865.ts
+#EXTINF:-1,GR: Star
+http://163.172.6.8:8000/live/benfica/benfica/848.ts
+#EXTINF:-1,GR: SAKI
+http://163.172.6.8:8000/live/benfica/benfica/850.ts
+#EXTINF:-1,GR: Ma tv
+http://163.172.6.8:8000/live/benfica/benfica/849.ts
+#EXTINF:-1,GR: Antenna
+http://163.172.6.8:8000/live/benfica/benfica/847.ts
+#EXTINF:-1,GR: Kontra TV
+http://163.172.6.8:8000/live/benfica/benfica/853.ts
+#EXTINF:-1,GR: MTV Music
+http://163.172.6.8:8000/live/benfica/benfica/864.ts
+#EXTINF:-1,GR: Mega
+http://163.172.6.8:8000/live/benfica/benfica/863.ts
+#EXTINF:-1,GR: Mega TV
+http://163.172.6.8:8000/live/benfica/benfica/862.ts
+#EXTINF:-1,GR: Alpha
+http://163.172.6.8:8000/live/benfica/benfica/855.ts
+#EXTINF:-1,GR: Euronews
+http://163.172.6.8:8000/live/benfica/benfica/858.ts
+#EXTINF:-1,GR: Nickelodeon
+http://163.172.6.8:8000/live/benfica/benfica/859.ts
+#EXTINF:-1,GR: MAK TV
+http://163.172.6.8:8000/live/benfica/benfica/854.ts
+#EXTINF:-1,GR: MAD TV
+http://163.172.6.8:8000/live/benfica/benfica/857.ts
+#EXTINF:-1,GR: Cannali Musiki
+http://163.172.6.8:8000/live/benfica/benfica/1416.ts
+#EXTINF:-1,GR: Xalastra tv
+http://163.172.6.8:8000/live/benfica/benfica/1421.ts
+#EXTINF:-1,GR: ANT1
+http://163.172.6.8:8000/live/benfica/benfica/856.ts
+#EXTINF:-1,GR: Ant1 Cyprus
+http://163.172.6.8:8000/live/benfica/benfica/851.ts
+#EXTINF:-1,GR: Omega
+http://163.172.6.8:8000/live/benfica/benfica/852.ts
+#EXTINF:-1,GR: Tinos TV
+http://163.172.6.8:8000/live/benfica/benfica/1411.ts
+#EXTINF:-1,GR: Macedonia TV HD
+http://163.172.6.8:8000/live/benfica/benfica/1418.ts
+#EXTINF:-1,GR: Discovery Channel
+http://163.172.6.8:8000/live/benfica/benfica/1419.ts
+#EXTINF:-1,GR: Lampsi TV
+http://163.172.6.8:8000/live/benfica/benfica/1412.ts
+#EXTINF:-1,GR: HellasT
+http://163.172.6.8:8000/live/benfica/benfica/1414.ts
+#EXTINF:-1,GR: Chios tv
+http://163.172.6.8:8000/live/benfica/benfica/1415.ts
+#EXTINF:-1,GR: Cartoons
+http://163.172.6.8:8000/live/benfica/benfica/1413.ts
+#EXTINF:-1,GR: Rik Sat
+http://163.172.6.8:8000/live/benfica/benfica/833.ts
+#EXTINF:-1,GR: WZRA
+http://163.172.6.8:8000/live/benfica/benfica/832.ts
+#EXTINF:-1,GR: VOULI
+http://163.172.6.8:8000/live/benfica/benfica/835.ts
+#EXTINF:-1,GR: Kanali 6
+http://163.172.6.8:8000/live/benfica/benfica/834.ts
+
+
+
+
+
+
+
+
 #EXTINF:1,Father Leaves Park With WRONG Daughter - Just For Laughs Gags
 plugin://plugin.video.youtube/?action=play_video&videoid=pzb1vdT8JWM
 
