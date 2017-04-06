@@ -2,6 +2,48 @@
 
 #EXTM3U
 
+#EXTINF:1,"Goodnight Mr. Bean"
+plugin://plugin.video.youtube/?action=play_video&videoid=7a_CVFRqYv4
+
+#EXTINF:1,Mr. Bean - "Shopping"
+plugin://plugin.video.youtube/?action=play_video&videoid=D0je15bOPIE
+
+#EXTINF:1,"Tee Off  Mr.bean"
+plugin://plugin.video.youtube/?action=play_video&videoid=pHWySDe3yH0
+
+#EXTINF:1,"Back To School, Mr.bean"
+plugin://plugin.video.youtube/?action=play_video&videoid=B1_l1nX3l6g
+
+#EXTINF:1,"Mr.bean in Room 426"
+plugin://plugin.video.youtube/?action=play_video&videoid=AFbB3zHFtAA
+
+#EXTINF:1,"Do It Yourself, Mr.bean"
+plugin://plugin.video.youtube/?action=play_video&videoid=q_mPpcLM8Bw
+
+#EXTINF:1,"Mind the Baby, Mr.bean"
+plugin://plugin.video.youtube/?action=play_video&videoid=dBocu1btClk
+
+#EXTINF:1, "The Return of Mr.bean"
+plugin://plugin.video.youtube/?action=play_video&videoid=KYXSVeW0Rk4
+
+#EXTINF:1,"The Curse of Mr.bean"
+plugin://plugin.video.youtube/?action=play_video&videoid=AAfymJfBj_s
+
+#EXTINF:1,"Mr.bean Rides Again"
+plugin://plugin.video.youtube/?action=play_video&videoid=LvzUdEziMJs
+
+#EXTINF:1,"Merry Christmas, Mr.bean"
+plugin://plugin.video.youtube/?action=play_video&videoid=LpnEaUEhcI0
+
+#EXTINF:1,"Exams, Mr.bean"
+plugin://plugin.video.youtube/?action=play_video&videoid=MzNa5MsrpJ8
+
+#EXTINF:1,"Mr Bean Goes To Town"
+plugin://plugin.video.youtube/?action=play_video&videoid=MkR_78yq2Mc
+
+#EXTINF:1,"Hair By Mr Bean Of London"
+plugin://plugin.video.youtube/?action=play_video&videoid=AuIqrs-DJjA
+
 #EXTINF:1,Father Leaves Park With WRONG Daughter - Just For Laughs Gags
 plugin://plugin.video.youtube/?action=play_video&videoid=pzb1vdT8JWM
 
@@ -94,6 +136,30 @@ plugin://plugin.video.youtube/?action=play_video&videoid=AGvc9Tv6W7E
 
 #EXTINF:1,Ο Γιώργος Μητσικώστας κάνει Σπαλιάρα στο Survivor!
 plugin://plugin.video.youtube/?action=play_video&videoid=TF3WazhFT0Y
+
+#EXTINF:1,Ο Γιώργος Μητσικώστας κάνει τον Μπουτάρη
+plugin://plugin.video.youtube/?action=play_video&videoid=kpqbIAgxS3k
+
+#EXTINF:1,Μητσικώστας - Ο Λευτέρης Παπαδόπουλος περιγράφει τον αγώνα της Λάουρας!
+plugin://plugin.video.youtube/?action=play_video&videoid=HUotMGgBBGw
+
+#EXTINF:1,Στα πρόθυρα εγκεφαλικού ο Τάκης μετά το 1-0 στη Λεωφόρο.
+plugin://plugin.video.youtube/?action=play_video&videoid=VSyGV1WVnbE
+
+#EXTINF:1,Ο ΤΣΟΥΚΑΛΑΣ ΤΣΑΚΩΝΕΤΑΙ ΜΕ ΤΗΛΕΘΕΑΤΗ ΠΟΥ ΜΙΛΑΕΙ ΑΣΤΑΜΑΤΗΤΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=hmy4rHVyByM
+
+#EXTINF:1,ΤΑΚΗΣ ΤΣΟΥΚΑΛΑΣ ΠΕΡΟΥΚΑ & ΠΙΠΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=XPGWbJ5CGmE
+
+#EXTINF:1,ΤΑΚΗΣ ΤΣΟΥΚΑΛΑΣ - ΠΑΟΚΤΖΗΣ ΤΗΛΕΘΕΑΤΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=OxG4UphEq8c
+
+#EXTINF:1,ΤΑΚΗΣ ΤΣΟΥΚΑΛΑΣ - ΠΡΩΤΑΠΡΙΛΙΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=4kennqsIHdc
+
+#EXTINF:1,Τρολάρισμα στον Τάκη μετά το 4-1 με Μπεσίκτας και 71-80 από Γαλατά.
+plugin://plugin.video.youtube/?action=play_video&videoid=_vnyqms7We4
 
 #EXTINF:1,Μητσικώστας - Στέφανος Χίος
 plugin://plugin.video.youtube/?action=play_video&videoid=Yh__1ko7nsk
