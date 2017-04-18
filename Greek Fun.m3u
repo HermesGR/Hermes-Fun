@@ -2,6 +2,12 @@
 
 #EXTM3U
 
+#EXTINF:1,ΤΑΚΗΣ ΤΣΟΥΚΑΛΑΣ - Αεκτζής τρελαίνει τον Τάκη !!!
+plugin://plugin.video.youtube/?action=play_video&videoid=Whmc_tqs4Ro
+
+#EXTINF:1,ΤΑΚΗΣ ΤΣΟΥΚΑΛΑΣ -  Στα πρόθυρα εγκεφαλικού ο Τάκης μετά το 1-0 στη Λεωφόρο.
+plugin://plugin.video.youtube/?action=play_video&videoid=VSyGV1WVnbE
+
 #EXTINF:1,"Goodnight Mr. Bean"
 plugin://plugin.video.youtube/?action=play_video&videoid=7a_CVFRqYv4
 
@@ -119,7 +125,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=RQgf86uFWf4
 #EXTINF:1,Ο Γιώργος Μητσικώστας κάνει τον Μένιο Φουρθιώτη στα Αποκαλυπτικά!
 plugin://plugin.video.youtube/?action=play_video&videoid=_P075g5enGY
 
-#EXTINF:1,ΜΙΜΗΣΗ ΚΟΥΓΙΑ ΑΠΟ ΜΗΤΣΙΚΩΣΤΑ !
+#EXTINF:1,Μίμηση Κούγια απο Μητσικώστα !
 plugin://plugin.video.youtube/?action=play_video&videoid=M0-ZDawsKgw
 
 #EXTINF:1,Μητσίκωστας μιμείται Ραπτόπουλο
