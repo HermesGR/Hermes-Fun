@@ -2,6 +2,9 @@
 
 #EXTM3U
 
+#EXTINF:1,Μητσικώστας - Ο Λευτέρης Παπαδόπουλος περιγράφει τον αγώνα της Λάουρας!
+plugin://plugin.video.youtube/?action=play_video&videoid=HUotMGgBBGw
+
 #EXTINF:1,ΤΑΚΗΣ ΤΣΟΥΚΑΛΑΣ - Αεκτζής τρελαίνει τον Τάκη !!!
 plugin://plugin.video.youtube/?action=play_video&videoid=Whmc_tqs4Ro
 
