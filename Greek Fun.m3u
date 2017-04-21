@@ -2,6 +2,39 @@
 
 #EXTM3U
 
+#EXTINF:1,SURVIVOR - Η επική φάρσα στο Γιάννη Σπαλιάρα από το Γιώργο Χρανιώτη
+plugin://plugin.video.youtube/?action=play_video&videoid=HmBT-4-NGJw
+
+#EXTINF:1,Φάρσα σε Τούρκο οπαδό στο ματς με την Κροατία..τον εκανε...πραγματικό Τούρκο!
+plugin://plugin.video.youtube/?action=play_video&videoid=4u1j2kl11pc
+
+#EXTINF:1,Φάρσα : Τρώγοντας τα φαγητά άλλων
+plugin://plugin.video.youtube/?action=play_video&videoid=BC-0I6Ojmvw
+
+#EXTINF:1,Φάρσα : Κλωτσώντας κουτάβια
+plugin://plugin.video.youtube/?action=play_video&videoid=W4CHWzgfVsM
+
+#EXTINF:1,Φάρσα : Τι μωράκι, τι τρελό γκομενάκι είσαι εσύ;
+plugin://plugin.video.youtube/?action=play_video&videoid=LlifCx9yh8A
+
+#EXTINF:1,Φάρσα : Μάγκες εσείς ψάχνεστε για ξύλο;
+plugin://plugin.video.youtube/?action=play_video&videoid=rRcTRl4DlZc
+
+#EXTINF:1,Φάρσα : Επικά κλανίδια στο Γκάζι 
+plugin://plugin.video.youtube/?action=play_video&videoid=e03H9qsHFZ8
+
+#EXTINF:1,Φάρσα : Που πάς με την πατσαβούρα;;
+plugin://plugin.video.youtube/?action=play_video&videoid=et0gctft1NE
+
+#EXTINF:1,Φάρσα : Απρόσεκτος με σπρέι 
+plugin://plugin.video.youtube/?action=play_video&videoid=P-aC8nhzaRc
+
+#EXTINF:1,Φάρσα : Απρόσεκτος με πιτόγυρο
+plugin://plugin.video.youtube/?action=play_video&videoid=yBTZ9R-8BrA
+
+#EXTINF:1,Η πρωταπριλιάτικη φάρσα του Παναθηναϊκού
+plugin://plugin.video.youtube/?action=play_video&videoid=G2-sIsuXgS8
+
 #EXTINF:1,Μητσικώστας - Ο Λευτέρης Παπαδόπουλος περιγράφει τον αγώνα της Λάουρας!
 plugin://plugin.video.youtube/?action=play_video&videoid=HUotMGgBBGw
 
