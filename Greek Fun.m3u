@@ -2,6 +2,9 @@
 
 #EXTM3U
 
+#EXTINF:1,Comedy Football 2017 ● Bizzare, Epic Fails, Funny Skills, Bloopers
+plugin://plugin.video.youtube/?action=play_video&videoid=gGkDcAd48sk
+
 #EXTINF:1,SURVIVOR - Η επική φάρσα στο Γιάννη Σπαλιάρα από το Γιώργο Χρανιώτη
 plugin://plugin.video.youtube/?action=play_video&videoid=HmBT-4-NGJw
 
