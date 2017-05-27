@@ -2,6 +2,15 @@
 
 #EXTM3U
 
+#EXTINF:1, Funny Football Moments 2016 - Fails, Dives, Bloopers
+plugin://plugin.video.youtube/?action=play_video&videoid=E7A47q8IYIo
+
+#EXTINF:1, Funny Kids Vines Compilation 2016 | Funniest Kids Videos
+plugin://plugin.video.youtube/?action=play_video&videoid=RNXb6BvRyvg
+
+#EXTINF:1, Τσουκαλάς -SURVIVOR
+plugin://plugin.video.youtube/?action=play_video&videoid=uNjbHG5Ywes
+
 #EXTINF:1,Comedy Football 2017 ● Bizzare, Epic Fails, Funny Skills, Bloopers
 plugin://plugin.video.youtube/?action=play_video&videoid=gGkDcAd48sk
 
