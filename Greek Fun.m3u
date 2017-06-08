@@ -2,6 +2,18 @@
 
 #EXTM3U
 
+#EXTINF:1, ΤΑΚΗΣ ΤΣΟΥΚΑΛΑΣ - Έκκληση του Τάκη στον Β. Μαρινάκη για τον προπονητή.
+plugin://plugin.video.youtube/?action=play_video&videoid=PiaKSX9LdNs
+
+#EXTINF:1, ΤΑΚΗΣ ΤΣΟΥΚΑΛΑΣ - Οι Καθυστερημένοι 
+plugin://plugin.video.youtube/?action=play_video&videoid=ArIqF_YG5NE
+
+#EXTINF:1, ΣΤΕΦΑΝΟΣ ΧΙΟΣ - Χίος για Παπαδήμο !!!
+plugin://plugin.video.youtube/?action=play_video&videoid=txiauPMtl4Y
+
+#EXTINF:1, ΣΤΕΦΑΝΟΣ ΧΙΟΣ - Έξαλλος ο Σ. ΧΙΟΣ με το SURVIVOR !!!
+plugin://plugin.video.youtube/?action=play_video&videoid=eZZryIW-GXA
+
 #EXTINF:1, Funny Football Moments 2016 - Fails, Dives, Bloopers
 plugin://plugin.video.youtube/?action=play_video&videoid=E7A47q8IYIo
 
