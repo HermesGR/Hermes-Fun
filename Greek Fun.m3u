@@ -2,6 +2,15 @@
 
 #EXTM3U
 
+#EXTINF:1, ΤΑΚΗΣ ΤΣΟΥΚΑΛΑΣ - Ο Τάκης τα χώνει στον Πάτερ Κλεομένη !!
+plugin://plugin.video.youtube/?action=play_video&videoid=9XNOFTFF_3k
+
+#EXTINF:1, ΤΑΚΗΣ ΤΣΟΥΚΑΛΑΣ -  ΑΕΚτζής από Ρέθυμνο βγάζει τον Τάκη απο τα ρούχα του!!!
+plugin://plugin.video.youtube/?action=play_video&videoid=1kjXdCb5mIE
+
+#EXTINF:1, ΤΑΚΗΣ ΤΣΟΥΚΑΛΑΣ - Τρελά κέφια οι ακροατές μετά το 51-66 στο ΣΕΦ.
+plugin://plugin.video.youtube/?action=play_video&videoid=jGqhl19ZrFg
+
 #EXTINF:1, ΤΑΚΗΣ ΤΣΟΥΚΑΛΑΣ - Έκκληση του Τάκη στον Β. Μαρινάκη για τον προπονητή.
 plugin://plugin.video.youtube/?action=play_video&videoid=PiaKSX9LdNs
 
