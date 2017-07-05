@@ -2,6 +2,15 @@
 
 #EXTM3U
 
+#EXTINF:1, ΤΑΚΗΣ ΤΣΟΥΚΑΛΑΣ - Ο Τάκης τα παίρνει με τον Νίκο Μουτσινά!!!
+plugin://plugin.video.youtube/?action=play_video&videoid=Aw51JzfOZ3o
+
+#EXTINF:1, ΤΑΚΗΣ ΤΣΟΥΚΑΛΑΣ - Ο Τάκης και οι οπαδοί με τα αστεία ονόματα !!!
+plugin://plugin.video.youtube/?action=play_video&videoid=X2-YAXSMEA4
+
+#EXTINF:1, ΤΑΚΗΣ ΤΣΟΥΚΑΛΑΣ - Οπαδός της Λαμίας κάνει τον Τάκη έξαλλο !!!
+plugin://plugin.video.youtube/?action=play_video&videoid=XS2HzTWUgaY
+
 #EXTINF:1, ΤΑΚΗΣ ΤΣΟΥΚΑΛΑΣ - Ο Τάκης τα χώνει στον Πάτερ Κλεομένη !!
 plugin://plugin.video.youtube/?action=play_video&videoid=9XNOFTFF_3k
 
