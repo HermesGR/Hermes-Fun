@@ -2,6 +2,45 @@
 
 #EXTM3U
 
+#EXTINF:1, ΖΟΥΓΑΝΕΛΗΣ/ΜΠΟΥΛΑΣ - ΤΣΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=aPPwRkVqFyI
+
+#EXTINF:1, ΖΟΥΓΑΝΕΛΗΣ/ΜΠΟΥΛΑΣ - ΤΣΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=LLci8dWgm4E
+
+#EXTINF:1, ΖΟΥΓΑΝΕΛΗΣ/ΜΠΟΥΛΑΣ - ΤΣΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=P4kjsHkiwAc
+
+#EXTINF:1, ΖΟΥΓΑΝΕΛΗΣ/ΜΠΟΥΛΑΣ - ΤΣΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=Vh55hZJEIeg
+
+#EXTINF:1, ΖΟΥΓΑΝΕΛΗΣ/ΜΠΟΥΛΑΣ - ΤΣΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=YQGIwgcfrn4
+
+#EXTINF:1, ΖΟΥΓΑΝΕΛΗΣ/ΜΠΟΥΛΑΣ - Βότκα έχετε;;
+plugin://plugin.video.youtube/?action=play_video&videoid=GdApgYtfGRM
+
+#EXTINF:1, ΖΟΥΓΑΝΕΛΗΣ/ΜΠΟΥΛΑΣ - Στεγαστικό Δάνειο
+plugin://plugin.video.youtube/?action=play_video&videoid=iOy7asHcmJY
+
+#EXTINF:1, A.M.A.N - Σερβιτόρος Στο Εστιατόριο
+plugin://plugin.video.youtube/?action=play_video&videoid=GE-ZmFaGXbM
+
+#EXTINF:1, A.M.A.N - O.T.E
+plugin://plugin.video.youtube/?action=play_video&videoid=kyvn9r25tD0
+
+#EXTINF:1, A.M.A.N - Κλειδαράς
+plugin://plugin.video.youtube/?action=play_video&videoid=-og40TNdm2A
+
+#EXTINF:1, Α.Μ.Α.Ν - Αφιέρωμα Στις Κρατικές Υπηρεσίες
+plugin://plugin.video.youtube/?action=play_video&videoid=xBFwnrrFdPU
+
+#EXTINF:1, Α.Μ.Α.Ν - Αφιέρωμα Στην Παιδεία
+plugin://plugin.video.youtube/?action=play_video&videoid=UpVL8Qp-X5Q
+
+#EXTINF:1, Α.Μ.Α.Ν - Αφιέρωμα Στους Ολυμπιακούς Αγώνες 2004
+plugin://plugin.video.youtube/?action=play_video&videoid=QObQpRMGa8A
+
 #EXTINF:1, ΤΑΚΗΣ ΤΣΟΥΚΑΛΑΣ - Ο Τάκης τα παίρνει με τον Νίκο Μουτσινά!!!
 plugin://plugin.video.youtube/?action=play_video&videoid=Aw51JzfOZ3o
 
