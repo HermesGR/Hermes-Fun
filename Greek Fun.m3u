@@ -2,6 +2,25 @@
 
 #EXTM3U
 
+
+#EXTINF:1, ΦΟΡΤΣΑ ΠΑΤΡΙΔΑ ΕΠ.1 - Γ.ΖΟΥΓΑΝΕΛΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=KRFnvbVbRBY
+
+#EXTINF:1, ΦΟΡΤΣΑ ΠΑΤΡΙΔΑ ΕΠ.2 - Γ.ΖΟΥΓΑΝΕΛΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=KdyS5zEyWGc
+
+#EXTINF:1, ΦΟΡΤΣΑ ΠΑΤΡΙΔΑ ΕΠ.3 - Γ.ΖΟΥΓΑΝΕΛΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=n8wgkwCn8rk
+
+#EXTINF:1, ΦΟΡΤΣΑ ΠΑΤΡΙΔΑ ΕΠ.4 - Γ.ΖΟΥΓΑΝΕΛΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=DZgfqy-TskE
+
+#EXTINF:1, ΦΟΡΤΣΑ ΠΑΤΡΙΔΑ ΕΠ.5 - Γ.ΖΟΥΓΑΝΕΛΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=j0uO-i_jDzE
+
+#EXTINF:1, ΦΟΡΤΣΑ ΠΑΤΡΙΔΑ ΕΠ.6 - Γ.ΖΟΥΓΑΝΕΛΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=w_2c_cqEQJs
+
 #EXTINF:1, ΖΟΥΓΑΝΕΛΗΣ/ΜΠΟΥΛΑΣ - ΤΣΑ
 plugin://plugin.video.youtube/?action=play_video&videoid=aPPwRkVqFyI
 
