@@ -2,6 +2,8 @@
 
 #EXTM3U
 
+#EXTINF:1, THE MITSI SHOW ΕΠ.1 - Γ.ΜΗΤΣΙΚΩΣΤΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=MsPkKFqg1xA
 
 #EXTINF:1, ΦΟΡΤΣΑ ΠΑΤΡΙΔΑ ΕΠ.1 - Γ.ΖΟΥΓΑΝΕΛΗΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=KRFnvbVbRBY
@@ -20,6 +22,24 @@ plugin://plugin.video.youtube/?action=play_video&videoid=j0uO-i_jDzE
 
 #EXTINF:1, ΦΟΡΤΣΑ ΠΑΤΡΙΔΑ ΕΠ.6 - Γ.ΖΟΥΓΑΝΕΛΗΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=w_2c_cqEQJs
+
+#EXTINF:1, ΦΑΡΣΑ ΣΤΗΝ ΕΛΕΝΑ ΠΑΠΑΡΙΖΟΥ - Γ.ΜΗΤΣΙΚΩΣΤΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=M7k878F31A8
+
+#EXTINF:1, ΦΑΡΣΑ ΣΕ ΑΛΕΦΑΝΤΟ - Γ.ΜΗΤΣΙΚΩΣΤΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=5YWqMtgKBXE
+
+#EXTINF:1, ΦΑΡΣΑ ΣΕ ΓΕΩΡΓΙΟΥ - Γ.ΜΗΤΣΙΚΩΣΤΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=GHrm4A7lzxU
+
+#EXTINF:1, ΦΑΡΣΑ ΣΕ ΦΟΥΡΘΙΩΤΗ ΚΑΙ ΧΑΙΚΑΛΗ - Γ.ΜΗΤΣΙΚΩΣΤΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=vhyNNxgz32M
+
+#EXTINF:1, ΦΑΡΣΑ ΣΤΟΝ ΝΤΑΝΟ - Γ.ΜΗΤΣΙΚΩΣΤΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=1czaoKkSmzU
+
+#EXTINF:1, ΦΑΡΣΑ ΣΕ ΛΕΥΤΕΡΗ ΠΑΝΤΑΖΗ - Γ.ΜΗΤΣΙΚΩΣΤΑΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=ngq5LdsqimU
 
 #EXTINF:1, ΖΟΥΓΑΝΕΛΗΣ/ΜΠΟΥΛΑΣ - ΤΣΑ
 plugin://plugin.video.youtube/?action=play_video&videoid=aPPwRkVqFyI
