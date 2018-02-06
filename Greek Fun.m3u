@@ -21,6 +21,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=DZgfqy-TskE
 plugin://plugin.video.youtube/?action=play_video&videoid=j0uO-i_jDzE
 
 #EXTINF:1, ΦΟΡΤΣΑ ΠΑΤΡΙΔΑ ΕΠ.6 - Γ.ΖΟΥΓΑΝΕΛΗΣ
+plugin://plugin.video.youtube/?action=play_video&videoid=5CsNSpvvQ2w
+
+#EXTINF:1, ΦΟΡΤΣΑ ΠΑΤΡΙΔΑ ΕΠ.7 - Γ.ΖΟΥΓΑΝΕΛΗΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=w_2c_cqEQJs
 
 #EXTINF:1, ΦΑΡΣΑ ΣΤΗΝ ΕΛΕΝΑ ΠΑΠΑΡΙΖΟΥ - Γ.ΜΗΤΣΙΚΩΣΤΑΣ
