@@ -2,6 +2,9 @@
 
 #EXTM3U
 
+#EXTINF:1, TEST
+plugin://plugin.video.atlas/?description=Hermes%20addon.&amp;iconimage=https%3a%2f%2fi.imgur.com%2fhlZ8sAZ.png&amp;mode=420
+
 #EXTINF:1, THE MITSI SHOW ΕΠ.1 - Γ.ΜΗΤΣΙΚΩΣΤΑΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=MsPkKFqg1xA
 
