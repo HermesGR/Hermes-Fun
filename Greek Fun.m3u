@@ -2,9 +2,6 @@
 
 #EXTM3U
 
-#EXTINF:1, TEST 9
-
-
 #EXTINF:1, THE MITSI SHOW ΕΠ.1 - Γ.ΜΗΤΣΙΚΩΣΤΑΣ
 plugin://plugin.video.youtube/?action=play_video&videoid=MsPkKFqg1xA
 
